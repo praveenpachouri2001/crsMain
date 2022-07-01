@@ -1,0 +1,27 @@
+.a {
+  background-color: rgb(50, 112, 54);
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.a:hover {
+  background-color: #555;
+}
+
+.a:active {
+  background-color: black;
+}
+.h{
+height: 50px;
+font-size: larger;
+margin-top: 5px;
+padding-top: 3px;
+}
+img{
+  height: 60px;
+  width: 60px;
+}

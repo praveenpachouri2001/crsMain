@@ -1,0 +1,16 @@
+button:hover{
+    background-color: white;
+    color: #000;
+}
+.h{
+    background-color: beige;
+    margin: 4px;
+}
+.p{
+    background-color: black;
+    color: white;
+}
+.z{
+    background-color: blueviolet;
+    padding: 5px;
+}

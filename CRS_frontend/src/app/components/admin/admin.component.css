@@ -1,0 +1,16 @@
+.b{
+    background-color: beige;
+}
+.k{
+    width: 25%;
+    margin-left: 40%;
+    text-align: center;
+
+}
+button:hover{
+    background-color: white;
+    color: #000;
+}
+.x{
+    width: 25%;
+}
